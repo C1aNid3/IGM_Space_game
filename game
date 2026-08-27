@@ -15,7 +15,7 @@ Buttons
 		name:Собрать обломки
 		desc:Нажми, чтобы вручную добыть кристалл.
 		on Click:yield 1 crystal
-		icon:https://png.pngtree.com/png-clipart/20250514/original/pngtree-glossy-pixel-gem-with-high-contrast-shine-on-transparent-background-vector-png-image_20971492.png
+		icon:https://github.com/C1aNid3/IGM_Space_game/blob/main/an-8-bit-retro-styled-pixel-art-illustration-of-a-yellow-crystal-free-png.png
 
 Buildings
 	*drone
