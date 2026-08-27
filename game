@@ -23,4 +23,4 @@ Buildings
 		desc:Маленький робот, который автоматически ищет кристаллы в космосе.
 		cost:15 crystal
 		on tick:yield 3 crystal
-		icon:https://i.pinimg.com/originals/97/ab/b0/97abb09f582cbfe755a9d1bd5984a8e2.png?nii=t
+		icon:https://github.com/C1aNid3/IGM_Space_game/blob/main/97abb09f582cbfe755a9d1bd5984a8e2.png
