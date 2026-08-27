@@ -7,7 +7,7 @@ desc:Собирай кристаллы на заброшенной планет�
 Resources
 	*crystal
 		name:Космический кристалл
-		icon:https://static.vecteezy.com/system/resources/previews/025/212/489/non_2x/an-8-bit-retro-styled-pixel-art-illustration-of-a-yellow-crystal-free-png.png
+		icon:https://github.com/C1aNid3/IGM_Space_game/blob/main/pngtree-glossy-pixel-gem-with-high-contrast-shine-on-transparent-background-vector-png-image_20971492.png
 		desc:Главная валюта на этой заброшенной орбите.
 
 Buttons
