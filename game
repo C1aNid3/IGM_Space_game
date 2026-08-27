@@ -7,7 +7,7 @@ desc:Собирай кристаллы на заброшенной планет�
 Resources
 	*crystal
 		name:Космический кристалл
-		icon:https://github.com/C1aNid3/IGM_Space_game/blob/main/pngtree-glossy-pixel-gem-with-high-contrast-shine-on-transparent-background-vector-png-image_20971492.png
+		icon:https://static.vecteezy.com/system/resources/previews/025/212/489/non_2x/an-8-bit-retro-styled-pixel-art-illustration-of-a-yellow-crystal-free-png.png
 		desc:Главная валюта на этой заброшенной орбите.
 
 Buttons
@@ -15,7 +15,7 @@ Buttons
 		name:Собрать обломки
 		desc:Нажми, чтобы вручную добыть кристалл.
 		on Click:yield 1 crystal
-		icon:https://github.com/C1aNid3/IGM_Space_game/blob/main/an-8-bit-retro-styled-pixel-art-illustration-of-a-yellow-crystal-free-png.png
+		icon:https://png.pngtree.com/png-clipart/20250514/original/pngtree-glossy-pixel-gem-with-high-contrast-shine-on-transparent-background-vector-png-image_20971492.png
 
 Buildings
 	*drone
@@ -23,4 +23,4 @@ Buildings
 		desc:Маленький робот, который автоматически ищет кристаллы в космосе.
 		cost:15 crystal
 		on tick:yield 3 crystal
-		icon:https://github.com/C1aNid3/IGM_Space_game/blob/main/97abb09f582cbfe755a9d1bd5984a8e2.png
+		icon:https://i.pinimg.com/originals/97/ab/b0/97abb09f582cbfe755a9d1bd5984a8e2.png?nii=t
